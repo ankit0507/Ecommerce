@@ -11,10 +11,10 @@ export default function Navbar() {
                         <div className="col-lg-8 text-center text-lg-start mb-lg-0">
                             <div className="d-flex flex-wrap">
                                 <div className="border-end border-primary pe-3">
-                                    <p className="text-muted small"><i className="fas fa-map-marker-alt text-primary me-2"></i>A-43, Sector 16, Noida</p>
+                                    <p className="text-muted small"><i className="fas fa-map-marker-alt text-primary me-2"></i>Hanuman Nagar gaya ,Bihar</p>
                                 </div>
                                 <div className="ps-3">
-                                    <Link to="mailto:vishankchauhan@gmail.com" target='_blank' rel='noreferrer' className="text-muted small"><i className="fas fa-envelope text-primary me-2"></i>vishankchauhan@gmail.com</Link>
+                                    <Link to="mailto:vishankchauhan@gmail.com" target='_blank' rel='noreferrer' className="text-muted small"><i className="fas fa-envelope text-primary me-2"></i>ankit.ku0507@gmail.com</Link>
                                 </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@ export default function Navbar() {
                             </Link>
                             <div className="d-flex flex-column ms-3">
                                 <span>Call to Our Experts</span>
-                                <Link to="tel:919873848046" target='_blank' rel='noreferrer'><span className="text-dark">Free: +91 9873848046</span></Link>
+                                <Link to="tel:919873848046" target='_blank' rel='noreferrer'><span className="text-dark">Free: +91 9334421896</span></Link>
                             </div>
                         </div>
                         <div className="collapse navbar-collapse ms-3" id="navbarCollapse">
